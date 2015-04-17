@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 import regex as re
 
 regex_acte = re.compile(".*Acte(?P<NB_Acte>.*)\s+", re.VERBOSE)
@@ -17,7 +16,7 @@ class Piece:
                 match = regex_acte.match(line)
                 if match:
                     cur_acte = Acte(match.group("NB_Acte").strip())
-                    cur_piece.Acts.append(cur_acte)
+                    self.Acts.append(cur_acte)
 
                 else:
                     match = regex_scene.match(line)
@@ -38,11 +37,25 @@ class Piece:
                             if line and 'cur_replique' in locals():
                                 cur_replique.text += line
 
+    def __str__(self):
+        piece = self.Title + "\n"
+        for acte in self.Acts:
+            piece += str(acte)
+
+        return piece
+
 
 class Acte:
     def __init__(self, Number=""):
         self.Number = Number
         self.Scenes = []
+
+    def __str__(self):
+        acte = "Acte " + self.Number + "\n"
+        for scene in self.Scenes:
+            acte += str(scene)
+
+        return acte
 
 
 class Scene:
@@ -50,6 +63,13 @@ class Scene:
         self.Number = Number
         self.Actors = Actors
         self.Repliques = []
+
+    def __str__(self):
+        scene = "Scene " + self.Number + "\n"
+        for replique in self.Repliques:
+            scene += str(replique)
+
+        return scene
 
 
 class Actor:
@@ -66,7 +86,3 @@ class Replique:
     def __str__(self):
         return ", ".join(self.Actors) + " " + ", ".join(self.didascalie) + \
             "\n" + self.text
-
-
-cur_piece = Piece()
-cur_piece.Populate("georges_dandin.txt")
