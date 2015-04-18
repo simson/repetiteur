@@ -1,29 +1,43 @@
 #!/usr/bin/python3
-#
-# helloworld.py
-# Un simple exemple de traditionnel ”Hello World”
 
-from PyQt4.QtGui import *
-from PyQt4.QtCore import *
-import sys
-
-def main(args) :
-     #chaque programme doit disposer d'une instance de QApplication gérant l'ensemble des widgets
-     app=QApplication(args)
-     #un nouveau bouton
-     button=QPushButton("Hello World !", None)
-     #qu'on affiche
-     button.show()
-     #fin de l'application lorsque toutes les fenêtres sont fermées
-     app.connect(app,SIGNAL("lastWindowClosed()"),app,SLOT("quit()"))
-     #fin de l'application lorsque l'utilisateur clique sur le bouton
-     app.connect(button, SIGNAL("clicked()"),app,SLOT("quit()"))
-     #boucle principale de traitement des évènements
-     app.exec_()
-
-if __name__ == "__main__" :
-    main(sys.argv)
+from PyQt5 import QtWidgets
+from PyQt5 import Qt
+import text_reader
 
 
+class MainWindow(QtWidgets.QMainWindow):
+    def __init__(self):
+        super(MainWindow, self).__init__()
+        self.createUI()
+
+    def selectFile(self):
+        imported_file = QtWidgets.QFileDialog.getOpenFileName(self, "File to import", ".", "Txt (*.txt)")[0]
+        cur_piece = text_reader.Piece()
+        cur_piece.Populate(imported_file)
+        self.label = QtWidgets.QLabel(cur_piece.Title)
+        self.label.setSizePolicy(Qt.QSizePolicy.Expanding, Qt.QSizePolicy.Expanding)
+        self.main_layout.addWidget(self.label)
+
+    def createUI(self):
+        self.setWindowTitle('Text reader')
+
+        menu = self.menuBar().addMenu('File')
+        action = menu.addAction('Open')
+        action.triggered.connect(self.selectFile)
+        self.main_widget = QtWidgets.QWidget(self)
+        self.main_layout = QtWidgets.QVBoxLayout(self.main_widget)
+        self.main_layout.sizeConstraint = QtWidgets.QLayout.SetDefaultConstraint
+        self.main_layout.addWidget(self.main_widget)
+        #form_widget has its own main_widget where I put all other widgets onto
+        self.main_widget.setLayout(self.main_layout)
+        self.setCentralWidget(self.main_widget)
+        self.show()
 
 
+if __name__ == '__main__':
+
+    import sys
+    app = QtWidgets.QApplication(sys.argv)
+    window = MainWindow()
+    window.showMaximized()
+    sys.exit(app.exec_())

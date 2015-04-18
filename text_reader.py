@@ -13,6 +13,10 @@ class Piece:
     def Populate(self, filename):
         with open(filename) as f:
             for num, line in enumerate(f, 1):
+                if num == 1:
+                    self.Title = line
+                    continue
+
                 match = regex_acte.match(line)
                 if match:
                     cur_acte = Acte(match.group("NB_Acte").strip())
