@@ -6,8 +6,6 @@ Scène I
 GEORGE DANDIN
 Ah ! qu’une femme Demoiselle est une étrange affaire, et que mon mariage est une leçon bien parlante à tous les paysans qui veulent s’élever au-dessus de leur condition, et s’allier, comme j’ai fait, à la maison d’un gentilhomme ! La noblesse de soi est bonne, c’est une chose considérable assurément ; mais elle est accompagnée de tant de mauvaises circonstances, qu’il est très-bon de ne s’y point frotter. Je suis devenu là-dessus savant à mes dépens, et connois le style des nobles lorsqu’ils nous font, nous autres, entrer dans leur famille. L’alliance qu’ils font est petite avec nos personnes : c’est notre bien seul qu’ils épousent, et j’aurois bien mieux fait, tout riche que je suis, de m’allier en bonne et franche paysannerie, que de prendre une femme qui se tient au-dessus de moi, s’offense de porter mon nom, et pense qu’avec tout mon bien je n’ai pas assez acheté la qualité de son mari. George Dandin, George Dandin, vous avez fait une sottise la plus grande du monde. Ma maison m’est effroyable maintenant, et je n’y rentre point sans y trouver quelque chagrin.
 Scène II
-GEORGE DANDIN, LUBIN
- 
  
  
 GEORGE DANDIN, voyant sortir Lubin de chez lui.
@@ -170,8 +168,6 @@ Scène III
 GEORGE DANDIN
 Hé bien ! George Dandin, vous voyez de quel air votre femme vous traite. Voilà ce que c’est d’avoir voulu épouser une Demoiselle : l’on vous accommode de toutes pièces, sans que vous puissiez vous venger, et la gentilhommerie vous tient les bras liés. L’égalité de condition laisse du moins à l’honneur d’un mari liberté de ressentiment ; et si c’étoit une paysanne, vous auriez maintenant toutes vos coudées franches à vous en faire la justice à bons coups de bâton. Mais vous avez voulu tâter de la noblesse, et il vous ennuyoit d’être maître chez vous. Ah ! j’enrage de tout mon cœur, et je me donnerois volontiers des soufflets. Quoi ? écouter impudemment l’amour d’un Damoiseau, et y promettre en même temps de la correspondance ! Morbleu ! je ne veux point laisser passer une occasion de la sorte. Il me faut de ce pas aller faire mes plaintes au père et à la mère, et les rendre témoins, à telle fin que de raison, des sujets de chagrin et de ressentiment que leur fille me donne. Mais les voici l’un et l’autre fort à propos.
 Scène IV
-MONSIEUR ET MADAME DE SOTENVILLE, GEORGE DANDIN
- 
  
  
 MONSIEUR DE SOTENVILLE
@@ -312,8 +308,6 @@ Nous allons éclaircir l’affaire. Suivez-moi, mon gendre, et ne vous mettez pa
 GEORGE DANDIN
 Le voici qui vient vers nous.
 Scène V
-MONSIEUR DE SOTENVILLE, CLITANDRE, GEORGE DANDIN
- 
  
  
 MONSIEUR DE SOTENVILLE
@@ -397,8 +391,6 @@ Oui, c’est lui-même qui s’en est plaint à moi.
 CLITANDRE
 Certes, il peut remercier l’avantage qu’il a de vous appartenir, et sans cela je lui apprendrois bien à tenir de pareils discours d’une personne comme moi.
 Scène VI
-MONSIEUR ET MADAME DE SOTENVILLE, ANGÉLIQUE, CLITANDRE, GEORGE DANDIN, CLAUDINE
- 
  
  
 MADAME DE SOTENVILLE
@@ -607,7 +599,6 @@ Ah ! que je… Vous l’avez voulu, vous l’avez voulu, George Dandin, vous l�
 Acte II
  
 Scène I
-CLAUDINE, LUBIN
  
  
  
@@ -769,8 +760,6 @@ Adieu, rocher, caillou, pierre de taille, et tout ce qu’il y a de plus dur au 
 CLAUDINE
 Je vais remettre aux mains de ma maîtresse… Mais la voici avec son mari : éloignons-nous, et attendons qu’elle soit seule.
 Scène II
-GEORGE DANDIN, ANGÉLIQUE, CLITANDRE
- 
  
  
 GEORGE DANDIN
@@ -848,8 +837,6 @@ Moi je suis votre femme, et je vous dis que je l’entends.
 GEORGE DANDIN
 Il me prend des tentations d’accommoder tout son visage à la compote, et le mettre en état de ne plaire de sa vie aux diseurs de fleurettes. Ah ! allons, George Dandin ; je ne pourrois me retenir, et il vaut mieux quitter la place.
 Scène III
-CLAUDINE, ANGÉLIQUE
- 
  
  
 CLAUDINE
@@ -873,8 +860,6 @@ Demeure ici : je m’en vais faire la réponse.
 CLAUDINE
 Je n’ai pas besoin, que je pense, de lui recommander de la faire agréable. Mais voici…
 Scène IV
-CLITANDRE, LUBIN, CLAUDINE
- 
  
  
 CLAUDINE
@@ -919,8 +904,6 @@ Je m’abandonne à ta conduite.
 LUBIN
 Testiguenne ! que j’aurai là une habile femme ! Elle a de l’esprit comme quatre.
 Scène V
-GEORGE DANDIN, LUBIN
- 
  
  
 GEORGE DANDIN
@@ -986,8 +969,6 @@ Scène VI
 GEORGE DANDIN
 Je n’ai pu me servir avec cet innocent de la pensée que j’avois. Mais le nouvel avis qui lui est échappé feroit la même chose, et si le galant est chez moi, ce seroit pour avoir raison aux yeux du père et de la mère, et les convaincre pleinement de l’effronterie de leur fille. Le mal est tout ceci, c’est que je ne sais comment faire pour profiter d’un tel avis. Si je rentre chez moi, je ferai évader le drôle, et quelque chose que je puisse voir moi-même de mon déshonneur, je n’en serai point cru à mon serment, et l’on me dira que je rêve. Si, d’autre part, je vais quérir beau-père et belle-mère sans être sûr de trouver chez moi le galant, ce sera la même chose, et je retomberai dans l’inconvénient de tantôt. Pourrois-je point m’éclaircir doucement s’il y est encore ? Ah Ciel ! il n’en faut plus douter, et je viens de l’apercevoir par le trou de la porte. Le sort me donne ici de quoi confondre ma partie ; et pour achever l’aventure, il fait venir à point nommé les juges dont j’avois besoin.
 Scène VII
-MONSIEUR ET MADAME DE SOTENVILLE, GEORGE DANDIN
- 
  
  
 GEORGE DANDIN
@@ -1073,8 +1054,6 @@ N’allez pas faire comme tantôt.
 GEORGE DANDIN
 Mon Dieu ! vous allez voir. Tenez, ai-je menti ?
 Scène VIII
-ANGÉLIQUE, CLITANDRE, CLAUDINE, MONSIEUR ET MADAME DE SOTENVILLE, GEORGE DANDIN
- 
  
  
 ANGÉLIQUE
@@ -1162,8 +1141,6 @@ Je ne dis mot, car je ne gagnerois rien à parler, et jamais il ne s’est rien 
 Acte III
  
 Scène I
-CLITANDRE, LUBIN
- 
  
  
 CLITANDRE
@@ -1217,8 +1194,6 @@ Monsieur, je vous suis…
 CLITANDRE
 Chut ! J’entends quelque bruit.
 Scène II
-ANGÉLIQUE, CLAUDINE, CLITANDRE, LUBIN
- 
  
  
 ANGÉLIQUE
@@ -1306,8 +1281,6 @@ C’est fort bien avisé.
 LUBIN
 Claudine, où est-ce que tu es ?
 Scène III
-GEORGE DANDIN, LUBIN
- 
  
  
 GEORGE DANDIN
@@ -1326,8 +1299,6 @@ Personne.
 GEORGE DANDIN
 Il fuit, et me laisse informé de la nouvelle perfidie de ma coquine. Allons, il faut que sans tarder j’envoie appeler son père et sa mère, et que cette aventure me serve à me faire séparer d’elle. Holà ! Colin, Colin.
 Scène IV
-COLIN, GEORGE DANDIN
- 
  
  
 COLIN, à la fenêtre.
@@ -1398,8 +1369,6 @@ Oui, Monsieur.
 GEORGE DANDIN
 Va vite, et reviens de même, Et moi, je vais rentrer dans ma maison, attendant que… Mais j’entends quelqu’un. Ne seroit-ce point ma femme ? Il faut que j’écoute, et me serve de l’obscurité qu’il fait.
 Scène V
-CLITANDRE, ANGÉLIQUE, GEORGE DANDIN, CLAUDINE, LUBIN
- 
  
  
 ANGÉLIQUE
@@ -1466,8 +1435,6 @@ Où es-tu, Claudine, que je te donne le bonsoir ?
 CLAUDINE
 Va, va, je le reçois de loin, et je t’en renvoie autant.
 Scène VI
-ANGÉLIQUE, CLAUDINE, GEORGE DANDIN
- 
  
  
 ANGÉLIQUE
@@ -1634,8 +1601,6 @@ Va, va, traître, je suis lasse de tes déportements, et je m’en veux plaindre
 GEORGE DANDIN
 Quoi ? c’est ainsi que vous osez…
 Scène VII
-MONSIEUR ET MADAME DE SOTENVILLE, COLIN, CLAUDINE, ANGÉLIQUE, GEORGE DANDIN
- 
  
  
 (M. et Mme de Sotenville sont en habits de nuit, et conduits par Colin qui porte une lanterne.)
@@ -1643,7 +1608,7 @@ MONSIEUR ET MADAME DE SOTENVILLE, COLIN, CLAUDINE, ANGÉLIQUE, GEORGE DANDIN
 ANGÉLIQUE
 Approchez, de grâce, et venez me faire raison de l’insolence la plus grande du monde d’un mari à qui le vin et la jalousie ont troublé de telle sorte la cervelle, qu’il ne sait plus ni ce qu’il dit, ni ce qu’il fait, et vous a lui-même envoyé quérir pour vous faire témoins de l’extravagance la plus étrange dont on ait jamais ouï parler. Le voilà qui revient comme vous voyez, après s’être fait attendre toute la nuit ; et, si vous voulez l’écouter, il vous dira qu’il a les plus grandes plaintes du monde à vous faire de moi ; que durant qu’il dormoit, je me suis dérobée d’auprès de lui pour m’en aller courir, et cent autres contes de même nature qu’il est allé rêver.
  
-GEORGE DANDIN.
+GEORGE DANDIN
 Voilà une méchante carogne.
  
 CLAUDINE
@@ -1793,13 +1758,13 @@ GEORGE DANDIN
 MONSIEUR DE SOTENVILLE
 Oui, à genoux, et sans tarder.
  
-GEORGE DANDIN. Il se met à genoux.
+GEORGE DANDIN Il se met à genoux.
 Ô Ciel ! Que faut-il dire ?
  
 MONSIEUR DE SOTENVILLE
 « Madame, je vous prie de me pardonner. »
  
-GEORGE DANDIN.
+GEORGE DANDIN
 « Madame, je vous prie de me pardonner. »
  
 MONSIEUR DE SOTENVILLE
@@ -1827,4 +1792,3 @@ GEORGE DANDIN
 Ah ! je le quitte maintenant, et je n’y vois plus de remède ; lorsqu’on a, comme moi, épousé une méchante femme, le meilleur parti qu’on puisse prendre, c’est de s’aller jeter dans l’eau la tête la première.
  
  
-FIN
