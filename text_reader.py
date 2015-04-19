@@ -6,10 +6,10 @@ regex_character = re.compile("(?P<name>[A-Z]{2,})", re.VERBOSE)
 
 
 class Piece:
-    def __init__(self, title="", acts=[], Actors=set()):
+    def __init__(self, title="", acts=[], Characters=set()):
         self.Title = title
         self.Acts = acts
-        self.Actors = Actors
+        self.Characters = Characters
 
     def Populate(self, filename):
         with open(filename) as f:
@@ -36,7 +36,7 @@ class Piece:
                                     for i in re.split(", |\. ", line)]
                             personnage = [x for x in info if x.isupper()]
                             didascalie = [x for x in info if not x.isupper()]
-                            self.Actors.add(tuple(personnage))
+                            self.Characters.update(personnage)
                             cur_replique = Replique(personnage, didascalie)
                             cur_scene.Repliques.append(cur_replique)
                         else:
@@ -65,9 +65,9 @@ class Acte:
 
 
 class Scene:
-    def __init__(self, Number="", Actors=[]):
+    def __init__(self, Number="", Characters=[]):
         self.Number = Number
-        self.Actors = Actors
+        self.Characters = Characters
         self.Repliques = []
 
     def __str__(self):
@@ -84,11 +84,11 @@ class Actor:
 
 
 class Replique:
-    def __init__(self, Actors=[], didascalie="", text=""):
-        self.Actors = Actors
+    def __init__(self, Characters=[], didascalie="", text=""):
+        self.Characters = Characters
         self.text = text
         self.didascalie = didascalie
 
     def __str__(self):
-        return ", ".join(self.Actors) + " " + ", ".join(self.didascalie) + \
+        return ", ".join(self.Characters) + " " + ", ".join(self.didascalie) + \
             "\n" + self.text
