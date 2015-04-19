@@ -6,9 +6,10 @@ regex_character = re.compile("(?P<name>[A-Z]{2,})", re.VERBOSE)
 
 
 class Piece:
-    def __init__(self, title="", acts=[]):
+    def __init__(self, title="", acts=[], Actors=set()):
         self.Title = title
         self.Acts = acts
+        self.Actors = Actors
 
     def Populate(self, filename):
         with open(filename) as f:
@@ -35,6 +36,7 @@ class Piece:
                                     for i in re.split(", |\. ", line)]
                             personnage = [x for x in info if x.isupper()]
                             didascalie = [x for x in info if not x.isupper()]
+                            self.Actors.add(tuple(personnage))
                             cur_replique = Replique(personnage, didascalie)
                             cur_scene.Repliques.append(cur_replique)
                         else:

@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-from PyQt5 import QtWidgets
-from PyQt5 import Qt
+
+from PyQt5 import QtCore, QtWidgets
 import text_reader
 
 
@@ -10,25 +10,38 @@ class MainWindow(QtWidgets.QMainWindow):
         super(MainWindow, self).__init__()
         self.createUI()
 
+    def open_play(self):
+        self.selectFile()
+        self.update_window_new_piece(self.imported_file)
+
     def selectFile(self):
-        imported_file = QtWidgets.QFileDialog.getOpenFileName(self, "File to import", ".", "Txt (*.txt)")[0]
+        self.imported_file = QtWidgets.QFileDialog. \
+            getOpenFileName(self, "File to import", ".", "Txt (*.txt)")[0]
+
+    def update_window_new_piece(self, imported_file):
         cur_piece = text_reader.Piece()
         cur_piece.Populate(imported_file)
-        self.label = QtWidgets.QLabel(cur_piece.Title)
-        self.label.setSizePolicy(Qt.QSizePolicy.Expanding, Qt.QSizePolicy.Expanding)
-        self.main_layout.addWidget(self.label)
+        self.title = QtWidgets.QLabel(cur_piece.Title)
+        self.main_layout.addWidget(self.title)
+
+        self.status_bar = QtWidgets.QStatusBar()
+        self.main_layout.addWidget(self.status_bar)
+        self.acte = QtWidgets.QComboBox()
+        self.acte.addItems(
+            ["Acte " + cur_act.Number for cur_act in cur_piece.Acts])
+        self.actors = QtWidgets.QComboBox()
+        self.status_bar.addWidget(self.actors)
+        self.status_bar.addWidget(self.acte)
 
     def createUI(self):
         self.setWindowTitle('Text reader')
 
         menu = self.menuBar().addMenu('File')
         action = menu.addAction('Open')
-        action.triggered.connect(self.selectFile)
+        action.triggered.connect(self.open_play)
         self.main_widget = QtWidgets.QWidget(self)
         self.main_layout = QtWidgets.QVBoxLayout(self.main_widget)
-        self.main_layout.sizeConstraint = QtWidgets.QLayout.SetDefaultConstraint
-        self.main_layout.addWidget(self.main_widget)
-        #form_widget has its own main_widget where I put all other widgets onto
+        self.main_layout.setAlignment(QtCore.Qt.AlignHCenter | QtCore.Qt.AlignTop)
         self.main_widget.setLayout(self.main_layout)
         self.setCentralWidget(self.main_widget)
         self.show()
@@ -40,4 +53,8 @@ if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
     window = MainWindow()
     window.showMaximized()
+#   Debug only
+    window.imported_file = "georges_dandin.txt"
+    window.update_window_new_piece(window.imported_file)
+#
     sys.exit(app.exec_())
