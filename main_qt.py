@@ -97,6 +97,11 @@ class MainWindow(QtWidgets.QMainWindow):
         self.text_box.setText(self.piece.Acts[self.cur_acte_idx]
                               .Scenes[self.cur_scene_idx]
                               .Repliques[self.cur_replique_idx].text)
+        if self.piece.Acts[self.cur_acte_idx].Scenes[self.cur_scene_idx].Repliques[self.cur_replique_idx].Characters.count(self.characters.currentText()) == 0:
+            self.text_box.setFont(self.otherfont)
+        else:
+            self.text_box.setFont(self.myhiddenfont)
+			
 
     def update_window_new_piece(self, imported_file):
         self.piece = text_reader.Piece()
@@ -169,6 +174,9 @@ class MainWindow(QtWidgets.QMainWindow):
                                       | QtCore.Qt.AlignTop)
         self.main_widget.setLayout(self.main_layout)
         self.setCentralWidget(self.main_widget)
+        self.myhiddenfont = QtGui.QFont("Arial", 6, QtGui.QFont.Bold)
+        self.otherfont = QtGui.QFont("Arial", 36, QtGui.QFont.Bold)
+
         self.show()
 
     def keyPressEvent(self, e):
@@ -176,6 +184,11 @@ class MainWindow(QtWidgets.QMainWindow):
             self.next_replique()
         if e.key() == QtCore.Qt.Key_Left:
             self.prev_replique()
+        if e.key() == QtCore.Qt.Key_Enter:
+            if self.text_box.font() == self.otherfont:
+                self.text_box.setFont(self.myhiddenfont)
+            else:
+                self.text_box.setFont(self.otherfont)
 
 
 if __name__ == '__main__':
