@@ -4,7 +4,7 @@ Acte I
 Scène I
  
 GEORGE DANDIN
-Ah ! qu’une femme Demoiselle est une étrange affaire, et que mon mariage est une leçon bien parlante à tous les paysans qui veulent s’élever au-dessus de leur condition, et s’allier, comme j’ai fait, à la maison d’un gentilhomme ! La noblesse de soi est bonne, c’est une chose considérable assurément ; mais elle est accompagnée de tant de mauvaises circonstances, qu’il est très-bon de ne s’y point frotter. Je suis devenu là-dessus savant à mes dépens, et connois le style des nobles lorsqu’ils nous font, nous autres, entrer dans leur famille. L’alliance qu’ils font est petite avec nos personnes : c’est notre bien seul qu’ils épousent, et j’aurois bien mieux fait, tout riche que je suis, de m’allier en bonne et franche paysannerie, que de prendre une femme qui se tient au-dessus de moi, s’offense de porter mon nom, et pense qu’avec tout mon bien je n’ai pas assez acheté la qualité de son mari. George Dandin, George Dandin, vous avez fait une sottise la plus grande du monde. Ma maison m’est effroyable maintenant, et je n’y rentre point sans y trouver quelque chagrin.
+Ah ! qu’une femme Demoiselle est une étrange affaire, et que mon mariage est une leçon bien parlante à tous les paysans qui veulent s’élever au-dessus de leur condition, et s’allier, comme j’ai fait, à la maison d’un gentilhomme ! La noblesse de soi est bonne, c’est une chose considérable assurément ; mais elle est accompagnée de tant de mauvaises circonstances, qu’il est très-bon de ne s’y point frotter. Je suis devenu là-dessus savant à mes dépens, et connais le style des nobles lorsqu’ils nous font, nous autres, entrer dans leur famille. L’alliance qu’ils font est petite avec nos personnes : c’est notre bien seul qu’ils épousent, et j’aurais bien mieux fait, tout riche que je suis, de m’allier en bonne et franche paysannerie, que de prendre une femme qui se tient au-dessus de moi, s’offense de porter mon nom, et pense qu’avec tout mon bien je n’ai pas assez acheté la qualité de son mari. George Dandin, George Dandin, vous avez fait une sottise la plus grande du monde. Ma maison m’est effroyable maintenant, et je n’y rentre point sans y trouver quelque chagrin.
 Scène II
  
  
@@ -15,7 +15,7 @@ LUBIN
 Voilà un homme qui me regarde.
  
 GEORGE DANDIN
-Il ne me connoît pas.
+Il ne me connait pas.
  
 LUBIN
 Il se doute de quelque chose.
@@ -90,7 +90,7 @@ GEORGE DANDIN
 C’est bien fait.
  
 LUBIN
-Le mari, à ce qu’ils disent, est un jaloux qui ne veut pas qu’on fasse l’amour à sa femme, et il feroit le diable à quatre si cela venoit à ses oreilles : vous comprenez bien ?
+Le mari, à ce qu’ils disent, est un jaloux qui ne veut pas qu’on fasse l’amour à sa femme, et il ferait le diable à quatre si cela venait à ses oreilles : vous comprenez bien ?
  
 GEORGE DANDIN
 Fort bien.
@@ -123,7 +123,7 @@ LUBIN
 Oui : auprès de ces arbres.
  
 GEORGE DANDIN, à part.
-C’est pour cela que depuis peu ce Damoiseau poli s’est venu loger contre moi ; j’avois bon nez sans doute, et son voisinage déjà m’avoit donné quelque soupçon.
+C’est pour cela que depuis peu ce Damoiseau poli s’est venu loger contre moi ; j’avais bon nez sans doute, et son voisinage déjà m’avait donné quelque soupçon.
  
 LUBIN
 Testigué ! c’est le plus honnête homme que vous ayez jamais vu. Il m’a donné trois pièces d’or pour aller dire seulement à la femme qu’il est amoureux d’elle, et qu’il souhaite fort l’honneur de pouvoir lui parler. Voyez s’il y a là une grande fatigue pour me payer si bien, et ce qu’est au prix de cela une journée de travail où je ne gagne que dix sols.
@@ -144,7 +144,7 @@ GEORGE DANDIN
 Mais quelle réponse a fait la maîtresse à ce Monsieur le courtisan ?
  
 LUBIN
-Elle m’a dit de lui dire… attendez, je ne sais si je me souviendrai bien de tout cela… qu’elle lui est tout à fait obligée de l’affection qu’il a pour elle, et qu’à cause de son mari, qui est fantasque, il garde d’en rien faire paroître, et qu’il faudra songer à chercher quelque invention pour se pouvoir entretenir tous deux.
+Elle m’a dit de lui dire… attendez, je ne sais si je me souviendrai bien de tout cela… qu’elle lui est tout à fait obligée de l’affection qu’il a pour elle, et qu’à cause de son mari, qui est fantasque, il garde d’en rien faire paraitre, et qu’il faudra songer à chercher quelque invention pour se pouvoir entretenir tous deux.
  
 GEORGE DANDIN, à part.
 Ah ! pendarde de femme !
@@ -162,11 +162,11 @@ GEORGE DANDIN
 Oui, oui.
  
 LUBIN
-Pour moi, je vais faire semblant de rien : je suis un fin matois, et l’on ne diroit pas que j’y touche.
+Pour moi, je vais faire semblant de rien : je suis un fin matois, et l’on ne dirait pas que j’y touche.
 Scène III
  
 GEORGE DANDIN
-Hé bien ! George Dandin, vous voyez de quel air votre femme vous traite. Voilà ce que c’est d’avoir voulu épouser une Demoiselle : l’on vous accommode de toutes pièces, sans que vous puissiez vous venger, et la gentilhommerie vous tient les bras liés. L’égalité de condition laisse du moins à l’honneur d’un mari liberté de ressentiment ; et si c’étoit une paysanne, vous auriez maintenant toutes vos coudées franches à vous en faire la justice à bons coups de bâton. Mais vous avez voulu tâter de la noblesse, et il vous ennuyoit d’être maître chez vous. Ah ! j’enrage de tout mon cœur, et je me donnerois volontiers des soufflets. Quoi ? écouter impudemment l’amour d’un Damoiseau, et y promettre en même temps de la correspondance ! Morbleu ! je ne veux point laisser passer une occasion de la sorte. Il me faut de ce pas aller faire mes plaintes au père et à la mère, et les rendre témoins, à telle fin que de raison, des sujets de chagrin et de ressentiment que leur fille me donne. Mais les voici l’un et l’autre fort à propos.
+Hé bien ! George Dandin, vous voyez de quel air votre femme vous traite. Voilà ce que c’est d’avoir voulu épouser une Demoiselle : l’on vous accommode de toutes pièces, sans que vous puissiez vous venger, et la gentilhommerie vous tient les bras liés. L’égalité de condition laisse du moins à l’honneur d’un mari liberté de ressentiment ; et si c’était une paysanne, vous auriez maintenant toutes vos coudées franches à vous en faire la justice à bons coups de bâton. Mais vous avez voulu tâter de la noblesse, et il vous ennuyait d’être maître chez vous. Ah ! j’enrage de tout mon cœur, et je me donnerais volontiers des soufflets. Quoi ? écouter impudemment l’amour d’un Damoiseau, et y promettre en même temps de la correspondance ! Morbleu ! je ne veux point laisser passer une occasion de la sorte. Il me faut de ce pas aller faire mes plaintes au père et à la mère, et les rendre témoins, à telle fin que de raison, des sujets de chagrin et de ressentiment que leur fille me donne. Mais les voici l’un et l’autre fort à propos.
 Scène IV
  
  
@@ -195,7 +195,7 @@ GEORGE DANDIN
 Parbleu ! si vous m’appelez votre gendre, il me semble que je puis vous appeler ma belle-mère.
  
 MADAME DE SOTENVILLE
-Il y a fort à dire, et les choses ne sont pas égales. Apprenez, s’il vous plaît, que ce n’est pas à vous à vous servir de ce mot-là avec une personne de ma condition ; que tout notre gendre que vous soyez, il y a grande différence de vous à nous, et que vous devez vous connoître.
+Il y a fort à dire, et les choses ne sont pas égales. Apprenez, s’il vous plaît, que ce n’est pas à vous à vous servir de ce mot-là avec une personne de ma condition ; que tout notre gendre que vous soyez, il y a grande différence de vous à nous, et que vous devez vous connaitre.
  
 MONSIEUR DE SOTENVILLE
 C’en est assez, mamour, laissons cela.
@@ -221,7 +221,7 @@ Tout beau ! Apprenez aussi que vous ne devez pas dire « ma femme », quand v
 GEORGE DANDIN
 J’enrage. Comment ? ma femme n’est pas ma femme ?
  
-Madame de Sotenville.
+MADAME DE SOTENVILLE
 Oui, notre gendre, elle est votre femme ; mais il ne vous est pas permis de l’appeler ainsi, et c’est tout ce que vous pourriez faire, si vous aviez épousé une de vos pareilles.
  
 GEORGE DANDIN
@@ -234,7 +234,7 @@ MADAME DE SOTENVILLE
 Quoi ? parler ainsi d’une chose dont vous avez tiré de si grands avantages ?
  
 GEORGE DANDIN
-Et quels avantages, Madame, puisque Madame y a ? L’aventure n’a pas été mauvaise pour vous, car sans moi vos affaires, avec votre permission, étoient fort délabrées, et mon argent a servi à reboucher d’assez bons trous ; mais moi, de quoi y ai-je profité, je vous prie, que d’un allongement de nom, et au lieu de George Dandin, d’avoir reçu par vous le titre de « Monsieur de la Dandinière » ?
+Et quels avantages, Madame, puisque Madame y a ? L’aventure n’a pas été mauvaise pour vous, car sans moi vos affaires, avec votre permission, étaient fort délabrées, et mon argent a servi à reboucher d’assez bons trous ; mais moi, de quoi y ai-je profité, je vous prie, que d’un allongement de nom, et au lieu de George Dandin, d’avoir reçu par vous le titre de « Monsieur de la Dandinière » ?
  
 MONSIEUR DE SOTENVILLE
 Ne comptez-vous rien, mon gendre, l’avantage d’être allié à la maison de Sotenville ?
@@ -261,7 +261,7 @@ MADAME DE SOTENVILLE
 Nous avons eu une Jacqueline de la Prudoterie qui ne voulut jamais être la maîtresse d’un duc et pair, gouverneur de notre province.
  
 MONSIEUR DE SOTENVILLE
-Il y a eu une Mathurine de Sotenville qui refusa vingt mille écus d’un favori du Roi, qui ne lui demandoit seulement que la faveur de lui parler.
+Il y a eu une Mathurine de Sotenville qui refusa vingt mille écus d’un favori du Roi, qui ne lui demandait seulement que la faveur de lui parler.
  
 GEORGE DANDIN
 Ho bien ! votre fille n’est pas si difficile que cela, et elle s’est apprivoisée depuis qu’elle est chez moi.
@@ -276,10 +276,10 @@ GEORGE DANDIN
 Tout ce que je vous puis dire, c’est qu’il y a ici un certain courtisan que vous avez vu, qui est amoureux d’elle à ma barbe, et qui lui a fait faire des protestations d’amour qu’elle a très-humainement écoutées.
  
 MADAME DE SOTENVILLE
-Jour de Dieu ! je l’étranglerois de mes propres mains, s’il falloit qu’elle forlignât de l’honnêteté de sa mère.
+Jour de Dieu ! je l’étranglerais de mes propres mains, s’il fallait qu’elle forlignât de l’honnêteté de sa mère.
  
 MONSIEUR DE SOTENVILLE
-Corbleu ! je lui passerois mon épée au travers du corps, à elle et au galant, si elle avoit forfait à son honneur.
+Corbleu ! je lui passerais mon épée au travers du corps, à elle et au galant, si elle avait forfait à son honneur.
  
 GEORGE DANDIN
 Je vous ai dit ce qui se passe pour vous faire mes plaintes, et je vous demande raison de cette affaire-là.
@@ -300,7 +300,7 @@ MONSIEUR DE SOTENVILLE
 Mamour, allez-vous-en parler à votre fille, tandis qu’avec mon gendre j’irai parler à l’homme.
  
 MADAME DE SOTENVILLE
-Se pourroit-il, mon fils, qu’elle s’oubliât de la sorte, après le sage exemple que vous savez vous-même que je lui ai donné ?
+Se pourrait-il, mon fils, qu’elle s’oubliât de la sorte, après le sage exemple que vous savez vous-même que je lui ai donné ?
  
 MONSIEUR DE SOTENVILLE
 Nous allons éclaircir l’affaire. Suivez-moi, mon gendre, et ne vous mettez pas en peine. Vous verrez de quel bois nous nous chauffons lorsqu’on s’attaque à ceux qui nous peuvent appartenir.
@@ -353,7 +353,7 @@ CLITANDRE
 Voilà une étrange médisance ! Qui vous a dit cela, Monsieur ?
  
 MONSIEUR DE SOTENVILLE
-Quelqu’un qui croit le bien savoir.
+Quelqu’un qui crait le bien savoir.
  
 CLITANDRE
 Ce quelqu’un-là en a menti. Je suis honnête homme. Me croyez-vous capable, Monsieur, d’une action aussi lâche que celle-là ? Moi, aimer une jeune et belle personne, qui a l’honneur d’être la fille de Monsieur le baron de Sotenville ! je vous révère trop pour cela, et suis trop votre serviteur. Quiconque vous l’a dit est un sot.
@@ -374,7 +374,7 @@ George Dandin
 Répondez vous-même.
  
 CLITANDRE
-Si je savois qui ce peut être, je lui donnerois en votre présence de l’épée dans le ventre.
+Si je savais qui ce peut être, je lui donnerais en votre présence de l’épée dans le ventre.
  
 MONSIEUR DE SOTENVILLE
 Soutenez donc la chose.
@@ -389,7 +389,7 @@ MONSIEUR DE SOTENVILLE
 Oui, c’est lui-même qui s’en est plaint à moi.
  
 CLITANDRE
-Certes, il peut remercier l’avantage qu’il a de vous appartenir, et sans cela je lui apprendrois bien à tenir de pareils discours d’une personne comme moi.
+Certes, il peut remercier l’avantage qu’il a de vous appartenir, et sans cela je lui apprendrais bien à tenir de pareils discours d’une personne comme moi.
 Scène VI
  
  
@@ -400,7 +400,7 @@ CLITANDRE
 Est-ce donc vous, Madame, qui avez dit à votre mari que je suis amoureux de vous ?
  
 ANGÉLIQUE
-Moi ? et comment lui aurois-je dit ? est-ce que cela est ? Je voudrois bien le voir vraiment que vous fussiez amoureux de moi. Jouez-vous-y, je vous en prie, vous trouverez à qui parler. C’est une chose que je vous conseille de faire. Ayez recours, pour voir, à tous les détours des amants : essayez un peu, par plaisir, à m’envoyer des ambassades, à m’écrire secrètement de petits billets doux, à épier les moments que mon mari n’y sera pas, ou le temps que je sortirai, pour me parler de votre amour. Vous n’avez qu’à y venir, je vous promets que vous serez reçu comme il faut.
+Moi ? et comment lui aurois-je dit ? est-ce que cela est ? Je voudrais bien le voir vraiment que vous fussiez amoureux de moi. Jouez-vous-y, je vous en prie, vous trouverez à qui parler. C’est une chose que je vous conseille de faire. Ayez recours, pour voir, à tous les détours des amants : essayez un peu, par plaisir, à m’envoyer des ambassades, à m’écrire secrètement de petits billets doux, à épier les moments que mon mari n’y sera pas, ou le temps que je sortirai, pour me parler de votre amour. Vous n’avez qu’à y venir, je vous promets que vous serez reçu comme il faut.
  
 CLITANDRE
 Hé ! la, la, Madame, tout doucement. Il n’est pas nécessaire de me faire tant de leçons, et de vous tant scandaliser. Qui vous dit que je songe à vous aimer ?
@@ -454,7 +454,7 @@ CLAUDINE
 Hélas ! que le monde aujourd’hui est rempli de méchanceté, de m’aller soupçonner ainsi, moi qui suis l’innocence même !
  
 GEORGE DANDIN
-Taisez-vous, bonne pièce. Vous faites la sournoise ; mais je vous connois il y a longtemps, et vous êtes une dessalée.
+Taisez-vous, bonne pièce. Vous faites la sournoise ; mais je vous connais il y a longtemps, et vous êtes une dessalée.
  
 CLAUDINE
 Madame, est-ce que… ?
@@ -469,13 +469,13 @@ CLAUDINE
 Assurément.
  
 ANGÉLIQUE
-Tout mon malheur est de le trop considérer ; et plût au Ciel que je fusse capable de souffrir, comme il dit, les galanteries de quelqu’un ! je ne serois pas tant à plaindre. Adieu : je me retire, et je ne puis plus endurer qu’on m’outrage de cette sorte.
+Tout mon malheur est de le trop considérer ; et plût au Ciel que je fusse capable de souffrir, comme il dit, les galanteries de quelqu’un ! je ne serais pas tant à plaindre. Adieu : je me retire, et je ne puis plus endurer qu’on m’outrage de cette sorte.
  
 MADAME DE SOTENVILLE
 Allez, vous ne méritez pas l’honnête femme qu’on vous a donnée.
  
 CLAUDINE
-Par ma foi ! il mériteroit qu’elle lui fît dire vrai ; et si j’étois en sa place, je n’y marchanderois pas. Oui, Monsieur, vous devez, pour le punir, faire l’amour à ma maîtresse. Poussez, c’est moi qui vous le dis, ce sera fort bien employé ; et je m’offre à vous y servir, puisqu’il m’en a déjà taxée.
+Par ma foi ! il mériterait qu’elle lui fît dire vrai ; et si j’étais en sa place, je n’y marchanderais pas. Oui, Monsieur, vous devez, pour le punir, faire l’amour à ma maîtresse. Poussez, c’est moi qui vous le dis, ce sera fort bien employé ; et je m’offre à vous y servir, puisqu’il m’en a déjà taxée.
  
 MONSIEUR DE SOTENVILLE
 Vous méritez, mon gendre, qu’on vous dise ces choses-là ; et votre procédé met tout le monde contre vous.
@@ -503,10 +503,10 @@ GEORGE DANDIN
 C’est une chose, moi, dont je ne demeure pas d’accord, de l’avoir à tort accusé, et je sais bien ce que j’en pense.
  
 MONSIEUR DE SOTENVILLE
-Il n’importe. Quelque pensée qui vous puisse rester, il a nié : c’est satisfaire les personnes, et l’on n’a nul droit de se plaindre de tout homme qui se dédit.
+Il n’importe. Quelque pensée qui vous puisse rester, il a nié : c’est satisfaire les personnes, et l’on n’a nul drait de se plaindre de tout homme qui se dédit.
  
 GEORGE DANDIN
-Si bien donc que si je le trouvois couché avec ma femme, il en seroit quitte pour se dédire ?
+Si bien donc que si je le trouvais couché avec ma femme, il en serait quitte pour se dédire ?
  
 MONSIEUR DE SOTENVILLE
 Point de raisonnement. Faites-lui les excuses que je vous dis.
@@ -521,7 +521,7 @@ GEORGE DANDIN
 Je ne saurois…
  
 MONSIEUR DE SOTENVILLE
-Corbleu ! mon gendre, ne m’échauffez pas la bile : je me mettrois avec lui contre vous. Allons, laissez-vous gouverner par moi.
+Corbleu ! mon gendre, ne m’échauffez pas la bile : je me mettrais avec lui contre vous. Allons, laissez-vous gouverner par moi.
  
 GEORGE DANDIN
 Ah ! George Dandin !
@@ -552,10 +552,10 @@ GEORGE DANDIN
 « Des mauvaises pensées que j’ai eues de vous. »
  
 MONSIEUR DE SOTENVILLE
-« C’est que je n’avois pas l’honneur de vous connoître. »
+« C’est que je n’avais pas l’honneur de vous connaitre. »
  
 GEORGE DANDIN
-« C’est que je n’avois pas l’honneur de vous connoître. »
+« C’est que je n’avais pas l’honneur de vous connaitre. »
  
 MONSIEUR DE SOTENVILLE
 « Et je vous prie de croire. »
@@ -603,10 +603,10 @@ Scène I
  
  
 CLAUDINE
-Oui, j’ai bien deviné qu’il falloit que cela vînt de toi, et que tu l’eusses dit à quelqu’un qui l’ait rapporté à notre maître.
+Oui, j’ai bien deviné qu’il fallait que cela vînt de toi, et que tu l’eusses dit à quelqu’un qui l’ait rapporté à notre maître.
  
 LUBIN
-Par ma foi ! je n’en ai touché qu’un petit mot en passant à un homme, afin qu’il ne dît point qu’il m’avoit vu sortir, et il faut que les gens en ce pays-ci soient de grands babillards.
+Par ma foi ! je n’en ai touché qu’un petit mot en passant à un homme, afin qu’il ne dît point qu’il m’avait vu sortir, et il faut que les gens en ce pays-ci soient de grands babillards.
  
 CLAUDINE
 Vraiment ce Monsieur le Vicomte a bien choisi son monde, que de te prendre pour son ambassadeur, et il s’est allé servir là d’un homme bien chanceux.
@@ -669,7 +669,7 @@ LUBIN
 Vois-tu ? il ne faut point tant de beurre pour faire un quarteron : si tu veux, tu seras ma femme, je serai ton mari, et nous serons tous deux mari et femme.
  
 CLAUDINE
-Tu serois peut-être jaloux comme notre maître.
+Tu serais peut-être jaloux comme notre maître.
  
 LUBIN
 Point.
@@ -732,7 +732,7 @@ CLAUDINE
 Tu t’émancipes trop.
  
 LUBIN
-Qu’est-ce que cela te coûteroit de me laisser un peu faire ?
+Qu’est-ce que cela te coûterait de me laisser un peu faire ?
  
 CLAUDINE
 Il faut que tu te donnes patience.
@@ -826,7 +826,7 @@ GEORGE DANDIN
 C’est ainsi que vous satisfaites aux engagements de la foi que vous m’avez donnée publiquement ?
  
 ANGÉLIQUE
-Moi ? Je ne vous l’ai point donnée de bon cœur, et vous me l’avez arrachée. M’avez-vous, avant le mariage, demandé mon consentement, et si je voulois bien de vous ? Vous n’avez consulté, pour cela, que mon père et ma mère ; ce sont eux proprement qui vous ont épousé, et c’est pourquoi vous ferez bien de vous plaindre toujours à eux des torts que l’on pourra vous faire. Pour moi, qui ne vous ai point dit de vous marier avec moi, et que vous avez prise sans consulter mes sentiments, je prétends n’être point obligée à me soumettre en esclave à vos volontés ; et je veux jouir, s’il vous plaît, de quelque nombre de beaux jours que m’offre la jeunesse, prendre les douces libertés que l’âge me permet, voir un peu le beau monde, et goûter le plaisir de m’ouïr dire des douceurs. Préparez-vous-y, pour votre punition, et rendez grâces au Ciel de ce que je ne suis pas capable de quelque chose de pis.
+Moi ? Je ne vous l’ai point donnée de bon cœur, et vous me l’avez arrachée. M’avez-vous, avant le mariage, demandé mon consentement, et si je voulais bien de vous ? Vous n’avez consulté, pour cela, que mon père et ma mère ; ce sont eux proprement qui vous ont épousé, et c’est pourquoi vous ferez bien de vous plaindre toujours à eux des torts que l’on pourra vous faire. Pour moi, qui ne vous ai point dit de vous marier avec moi, et que vous avez prise sans consulter mes sentiments, je prétends n’être point obligée à me soumettre en esclave à vos volontés ; et je veux jouir, s’il vous plaît, de quelque nombre de beaux jours que m’offre la jeunesse, prendre les douces libertés que l’âge me permet, voir un peu le beau monde, et goûter le plaisir de m’ouïr dire des douceurs. Préparez-vous-y, pour votre punition, et rendez grâces au Ciel de ce que je ne suis pas capable de quelque chose de pis.
  
 GEORGE DANDIN
 Oui ! c’est ainsi que vous le prenez. Je suis votre mari, et je vous dis que je n’entends pas cela.
@@ -835,7 +835,7 @@ ANGÉLIQUE
 Moi je suis votre femme, et je vous dis que je l’entends.
  
 GEORGE DANDIN
-Il me prend des tentations d’accommoder tout son visage à la compote, et le mettre en état de ne plaire de sa vie aux diseurs de fleurettes. Ah ! allons, George Dandin ; je ne pourrois me retenir, et il vaut mieux quitter la place.
+Il me prend des tentations d’accommoder tout son visage à la compote, et le mettre en état de ne plaire de sa vie aux diseurs de fleurettes. Ah ! allons, George Dandin ; je ne pourrais me retenir, et il vaut mieux quitter la place.
 Scène III
  
  
@@ -910,7 +910,7 @@ GEORGE DANDIN
 Voici mon homme de tantôt. Plût au Ciel qu’il pût se résoudre à vouloir rendre témoignage au père et à la mère de ce qu’ils ne veulent point croire !
  
 LUBIN
-Ah ! vous voilà, Monsieur le babillard, à qui j’avois tant recommandé de ne point parler, et qui me l’aviez tant promis. Vous êtes donc un causeur, et vous allez redire ce que l’on vous dit en secret ?
+Ah ! vous voilà, Monsieur le babillard, à qui j’avais tant recommandé de ne point parler, et qui me l’aviez tant promis. Vous êtes donc un causeur, et vous allez redire ce que l’on vous dit en secret ?
  
 GEORGE DANDIN
 Moi ?
@@ -922,7 +922,7 @@ GEORGE DANDIN
 Écoute, mon ami.
  
 LUBIN
-Si vous n’aviez point babillé, je vous aurois conté ce qui se passe à cette heure ; mais pour votre punition vous ne saurez rien du tout.
+Si vous n’aviez point babillé, je vous aurais conté ce qui se passe à cette heure ; mais pour votre punition vous ne saurez rien du tout.
  
 GEORGE DANDIN
 Comment qu’est-ce qui se passe ?
@@ -967,7 +967,7 @@ LUBIN
 Tarare !
 Scène VI
 GEORGE DANDIN
-Je n’ai pu me servir avec cet innocent de la pensée que j’avois. Mais le nouvel avis qui lui est échappé feroit la même chose, et si le galant est chez moi, ce seroit pour avoir raison aux yeux du père et de la mère, et les convaincre pleinement de l’effronterie de leur fille. Le mal est tout ceci, c’est que je ne sais comment faire pour profiter d’un tel avis. Si je rentre chez moi, je ferai évader le drôle, et quelque chose que je puisse voir moi-même de mon déshonneur, je n’en serai point cru à mon serment, et l’on me dira que je rêve. Si, d’autre part, je vais quérir beau-père et belle-mère sans être sûr de trouver chez moi le galant, ce sera la même chose, et je retomberai dans l’inconvénient de tantôt. Pourrois-je point m’éclaircir doucement s’il y est encore ? Ah Ciel ! il n’en faut plus douter, et je viens de l’apercevoir par le trou de la porte. Le sort me donne ici de quoi confondre ma partie ; et pour achever l’aventure, il fait venir à point nommé les juges dont j’avois besoin.
+Je n’ai pu me servir avec cet innocent de la pensée que j’avois. Mais le nouvel avis qui lui est échappé ferait la même chose, et si le galant est chez moi, ce serait pour avoir raison aux yeux du père et de la mère, et les convaincre pleinement de l’effronterie de leur fille. Le mal est tout ceci, c’est que je ne sais comment faire pour profiter d’un tel avis. Si je rentre chez moi, je ferai évader le drôle, et quelque chose que je puisse voir moi-même de mon déshonneur, je n’en serai point cru à mon serment, et l’on me dira que je rêve. Si, d’autre part, je vais quérir beau-père et belle-mère sans être sûr de trouver chez moi le galant, ce sera la même chose, et je retomberai dans l’inconvénient de tantôt. Pourrois-je point m’éclaircir doucement s’il y est encore ? Ah Ciel ! il n’en faut plus douter, et je viens de l’apercevoir par le trou de la porte. Le sort me donne ici de quoi confondre ma partie ; et pour achever l’aventure, il fait venir à point nommé les juges dont j’avais besoin.
 Scène VII
  
  
@@ -995,7 +995,7 @@ MADAME DE SOTENVILLE
 Ne voulez-vous point vous défaire de vos pensées extravagantes ?
  
 GEORGE DANDIN
-Non, Madame ; mais je voudrois bien me défaire d’une femme qui me déshonore.
+Non, Madame ; mais je voudrais bien me défaire d’une femme qui me déshonore.
  
 MADAME DE SOTENVILLE
 Jour de Dieu ! notre gendre, apprenez à parler.
@@ -1019,7 +1019,7 @@ GEORGE DANDIN
 Mais que ne songe-t-elle plutôt à me traiter plus honnêtement ? Quoi ? parce qu’elle est Demoiselle, il faut qu’elle ait la liberté de me faire ce qui lui plaît, sans que j’ose souffler ?
  
 MONSIEUR DE SOTENVILLE
-Qu’avez-vous donc, et que pouvez-vous dire ? N’avez-vous pas vu ce matin qu’elle s’est défendue de connoître celui dont vous m’étiez venu parler ?
+Qu’avez-vous donc, et que pouvez-vous dire ? N’avez-vous pas vu ce matin qu’elle s’est défendue de connaître celui dont vous m’étiez venu parler ?
  
 GEORGE DANDIN
 Oui. Mais vous, que pourrez-vous dire si je vous fais voir maintenant que le galant est avec elle ?
@@ -1076,7 +1076,7 @@ Ah Ciel !
  
 ANGÉLIQUE
 Ne faites pas semblant de rien, et me laissez faire tous deux.
-Quoi ? vous osez en user de la sorte, après l’affaire de tantôt, et c’est ainsi que vous dissimulez vos sentiments ? On me vient rapporter que vous avez de l’amour pour moi, et que vous faites des desseins de me solliciter ; j’en témoigne mon dépit, et m’explique à vous clairement en présence de tout le monde ; vous niez hautement la chose, et me donnez parole de n’avoir aucune pensée de m’offenser ; et cependant, le même jour, vous prenez la hardiesse de venir chez moi me rendre visite, de me dire que vous m’aimez, et de me faire cent sots contes pour me persuader de répondre à vos extravagances : comme si j’étois femme à violer la foi que j’ai donnée à un mari, et m’éloigner jamais de la vertu que mes parents m’ont enseignée. Si mon père savoit cela, il vous apprendroit bien à tenter de ces entreprises. Mais une honnête femme n’aime point les éclats ; je n’ai garde de lui en rien dire, et je veux vous montrer que, toute femme que je suis, j’ai assez de courage pour me venger moi-même des offenses que l’on me fait. L’action que vous avez faite n’est pas d’un gentilhomme, et ce n’est pas en gentilhomme aussi que je veux vous traiter.
+Quoi ? vous osez en user de la sorte, après l’affaire de tantôt, et c’est ainsi que vous dissimulez vos sentiments ? On me vient rapporter que vous avez de l’amour pour moi, et que vous faites des desseins de me solliciter ; j’en témoigne mon dépit, et m’explique à vous clairement en présence de tout le monde ; vous niez hautement la chose, et me donnez parole de n’avoir aucune pensée de m’offenser ; et cependant, le même jour, vous prenez la hardiesse de venir chez moi me rendre visite, de me dire que vous m’aimez, et de me faire cent sots contes pour me persuader de répondre à vos extravagances : comme si j’étais femme à violer la foi que j’ai donnée à un mari, et m’éloigner jamais de la vertu que mes parents m’ont enseignée. Si mon père savait cela, il vous apprendrait bien à tenter de ces entreprises. Mais une honnête femme n’aime point les éclats ; je n’ai garde de lui en rien dire, et je veux vous montrer que, toute femme que je suis, j’ai assez de courage pour me venger moi-même des offenses que l’on me fait. L’action que vous avez faite n’est pas d’un gentilhomme, et ce n’est pas en gentilhomme aussi que je veux vous traiter.
 (Elle prend un bâton et bat son mari, au lieu de Clitandre, qui se met entre-deux.)
  
 CLITANDRE
@@ -1098,7 +1098,7 @@ MONSIEUR DE SOTENVILLE
 Oui ma fille, et je vois qu’en sagesse et en courage tu te montres un digne rejeton de la maison de Sotenville. Viens çà, approche-toi que je t’embrasse.
  
 MADAME DE SOTENVILLE
-Embrasse-moi aussi, ma fille. Las ! je pleure de joie, et reconnois mon sang aux choses que tu viens de faire.
+Embrasse-moi aussi, ma fille. Las ! je pleure de joie, et reconnais mon sang aux choses que tu viens de faire.
  
 MONSIEUR DE SOTENVILLE
 Mon gendre, que vous devez être ravi, et que cette aventure est pour vous pleine de douceurs ! Vous aviez un juste sujet de vous alarmer ; mais vos soupçons se trouvent dissipés le plus avantageusement du monde.
@@ -1159,19 +1159,19 @@ CLITANDRE
 Elle a tort assurément ; mais si d’un côté elle nous empêche de voir, elle empêche de l’autre que nous ne soyons vus.
  
 LUBIN
-Vous avez raison, elle n’a pas tant de tort. Je voudrois bien savoir, Monsieur, vous qui êtes savant, pourquoi il ne fait point jour la nuit.
+Vous avez raison, elle n’a pas tant de tort. Je voudrais bien savoir, Monsieur, vous qui êtes savant, pourquoi il ne fait point jour la nuit.
  
 CLITANDRE
 C’est une grande question, et qui est difficile. Tu es curieux, Lubin.
  
 LUBIN
-Oui. Si j’avois étudié, j’aurois été songer à des choses où on n’a jamais songé.
+Oui. Si j’avais étudié, j’aurais été songer à des choses où on n’a jamais songé.
  
 CLITANDRE
 Je le crois. Tu as la mine d’avoir l’esprit subtil et pénétrant.
  
 LUBIN
-Cela est vrai. Tenez, j’explique du latin, quoique jamais je ne l’aie appris, et voyant autre jour écrit sur une grande porte collégium, je devinai que cela vouloit dire collège.
+Cela est vrai. Tenez, j’explique du latin, quoique jamais je ne l’aie appris, et voyant autre jour écrit sur une grande porte collégium, je devinai que cela voulait dire collège.
  
 CLITANDRE
 Cela est admirable ! Tu sais donc lire, Lubin ?
@@ -1284,11 +1284,11 @@ Scène III
  
  
 GEORGE DANDIN
-J’ai entendu descendre ma femme, et je me suis vite habillé pour descendre après elle. Où peut-elle être allée ? Seroit-elle sortie ?
+J’ai entendu descendre ma femme, et je me suis vite habillé pour descendre après elle. Où peut-elle être allée ? Serait-elle sortie ?
  
 LUBIN
 (Il prend George Dandin pour Claudine.)
-Où es-tu donc, Claudine ? Ah ! te voilà. Par ma foi, ton maître est plaisamment attrapé, et je trouve ceci aussi drôle que les coups de bâton de tantôt dont on m’a fait récit. Ta maîtresse dit qu’il ronfle, à cette heure, comme tous les diantres, et il ne sait pas que Monsieur le Vicomte et elle sont ensemble pendant qu’il dort. Je voudrois bien savoir quel songe il fait maintenant. Cela est tout à fait risible ! De quoi s’avise-t-il aussi d’être jaloux de sa femme, et de vouloir qu’elle soit à lui tout seul ? C’est un impertinent, et Monsieur le Vicomte lui fait trop d’honneur. Tu ne dis mot, Claudine. Allons, suivons-les, et me donne ta petite menotte que je la baise. Ah ! que cela est doux ! il me semble, que je mange des confitures. (Comme il baise la main de Dandin, Dandin la lui pousse rudement au visage). Tubleu ! comme vous y allez ! Voilà une petite menotte qui est un peu bien rude.
+Où es-tu donc, Claudine ? Ah ! te voilà. Par ma foi, ton maître est plaisamment attrapé, et je trouve ceci aussi drôle que les coups de bâton de tantôt dont on m’a fait récit. Ta maîtresse dit qu’il ronfle, à cette heure, comme tous les diantres, et il ne sait pas que Monsieur le Vicomte et elle sont ensemble pendant qu’il dort. Je voudrais bien savoir quel songe il fait maintenant. Cela est tout à fait risible ! De quoi s’avise-t-il aussi d’être jaloux de sa femme, et de vouloir qu’elle soit à lui tout seul ? C’est un impertinent, et Monsieur le Vicomte lui fait trop d’honneur. Tu ne dis mot, Claudine. Allons, suivons-les, et me donne ta petite menotte que je la baise. Ah ! que cela est doux ! il me semble, que je mange des confitures. (Comme il baise la main de Dandin, Dandin la lui pousse rudement au visage). Tubleu ! comme vous y allez ! Voilà une petite menotte qui est un peu bien rude.
  
 GEORGE DANDIN
 Qui va là ?
@@ -1361,13 +1361,13 @@ COLIN
 Assurément ?
  
 GEORGE DANDIN
-Oui. Approche. Bon. Tu es bien heureux de ce que j’ai besoin de toi. Va-t’en vite de ma part prier mon beau-père et ma belle-mère de se rendre ici le plus tôt qu’ils pourront, et leur dis que c’est pour une affaire de la dernière conséquence ; et s’ils faisoient quelque difficulté à cause de l’heure, ne manque pas de les presser, et de leur bien faire entendre qu’il est très-important qu’ils viennent en quelque état qu’ils soient. Tu m’entends bien maintenant ?
+Oui. Approche. Bon. Tu es bien heureux de ce que j’ai besoin de toi. Va-t’en vite de ma part prier mon beau-père et ma belle-mère de se rendre ici le plus tôt qu’ils pourront, et leur dis que c’est pour une affaire de la dernière conséquence ; et s’ils faisaient quelque difficulté à cause de l’heure, ne manque pas de les presser, et de leur bien faire entendre qu’il est très-important qu’ils viennent en quelque état qu’ils soient. Tu m’entends bien maintenant ?
  
 COLIN
 Oui, Monsieur.
  
 GEORGE DANDIN
-Va vite, et reviens de même, Et moi, je vais rentrer dans ma maison, attendant que… Mais j’entends quelqu’un. Ne seroit-ce point ma femme ? Il faut que j’écoute, et me serve de l’obscurité qu’il fait.
+Va vite, et reviens de même, Et moi, je vais rentrer dans ma maison, attendant que… Mais j’entends quelqu’un. Ne serait-ce point ma femme ? Il faut que j’écoute, et me serve de l’obscurité qu’il fait.
 Scène V
  
  
@@ -1381,7 +1381,7 @@ ANGÉLIQUE
 Nous nous sommes assez entretenus.
  
 CLITANDRE
-Ah ! Madame, puis-je assez vous entretenir, et trouver en si peu de temps toutes les paroles dont j’ai besoin ? Il me faudroit des journées entières pour me bien expliquer à vous de tout ce que je sens, et je ne vous ai pas dit encore la moindre partie de ce que j’ai à vous dire.
+Ah ! Madame, puis-je assez vous entretenir, et trouver en si peu de temps toutes les paroles dont j’ai besoin ? Il me faudrait des journées entières pour me bien expliquer à vous de tout ce que je sens, et je ne vous ai pas dit encore la moindre partie de ce que j’ai à vous dire.
  
 ANGÉLIQUE
 Nous en écouterons une autre fois davantage.
@@ -1402,7 +1402,7 @@ GEORGE DANDIN
 Voilà nos carognes de femmes.
  
 CLITANDRE
-Ah ! qu’il faut avouer que celui qu’on vous a donné étoit peu digne de l’honneur qu’il a reçu, et que c’est une étrange chose que l’assemblage qu’on a fait d’une personne comme vous avec un homme comme lui !
+Ah ! qu’il faut avouer que celui qu’on vous a donné était peu digne de l’honneur qu’il a reçu, et que c’est une étrange chose que l’assemblage qu’on a fait d’une personne comme vous avec un homme comme lui !
  
 GEORGE DANDIN, à part.
 Pauvres maris ! voilà comme on vous traite.
@@ -1411,7 +1411,7 @@ CLITANDRE
 Vous méritez sans doute une autre destinée, et le Ciel ne vous a point faite pour être la femme d’un paysan.
  
 GEORGE DANDIN
-Plût au Ciel fût-elle la tienne ! tu changerois bien de langage. Rentrons ; c’en est assez.
+Plût au Ciel fût-elle la tienne ! tu changerais bien de langage. Rentrons ; c’en est assez.
 (Il entre et ferme la porte.)
  
 CLAUDINE
@@ -1475,13 +1475,13 @@ CLAUDINE
 Madame.
  
 GEORGE DANDIN
-Voilà un coup sans doute où vous ne vous attendiez pas. C’est maintenant que je triomphe, et j’ai de quoi mettre à bas votre orgueil, et détruire vos artifices. Jusques ici vous avez joué mes accusations, ébloui vos parents, et plâtré vos malversations. J’ai eu beau voir, et beau dire, et votre adresse toujours l’a emporté sur mon bon droit, et toujours vous avez trouvé moyen d’avoir raison ; mais à cette fois, Dieu merci, les choses vont être éclaircies, et votre effronterie sera pleinement confondue.
+Voilà un coup sans doute où vous ne vous attendiez pas. C’est maintenant que je triomphe, et j’ai de quoi mettre à bas votre orgueil, et détruire vos artifices. Jusques ici vous avez joué mes accusations, ébloui vos parents, et plâtré vos malversations. J’ai eu beau voir, et beau dire, et votre adresse toujours l’a emporté sur mon bon drait, et toujours vous avez trouvé moyen d’avoir raison ; mais à cette fois, Dieu merci, les choses vont être éclaircies, et votre effronterie sera pleinement confondue.
  
 ANGÉLIQUE
 Hé ! je vous prie, faites-moi ouvrir la porte.
  
 GEORGE DANDIN
-Non, non ; il faut attendre la venue de ceux que j’ai mandés, et je veux qu’ils vous trouvent dehors à la belle heure qu’il est. En attendant qu’ils viennent, songez, si vous voulez, à chercher dans votre tête quelque nouveau détour pour vous tirer de cette affaire, à inventer quelque moyen de rhabiller votre escapade, à trouver quelque belle ruse pour éluder ici les gens et paroître innocente, quelque prétexte spécieux de pèlerinage nocturne, ou d’amie en travail d’enfant, que vous veniez de secourir.
+Non, non ; il faut attendre la venue de ceux que j’ai mandés, et je veux qu’ils vous trouvent dehors à la belle heure qu’il est. En attendant qu’ils viennent, songez, si vous voulez, à chercher dans votre tête quelque nouveau détour pour vous tirer de cette affaire, à inventer quelque moyen de rhabiller votre escapade, à trouver quelque belle ruse pour éluder ici les gens et paraître innocente, quelque prétexte spécieux de pèlerinage nocturne, ou d’amie en travail d’enfant, que vous veniez de secourir.
  
 ANGÉLIQUE
 Non : mon intention n’est pas de vous rien déguiser. Je ne prétends point me défendre, ni vous nier les choses, puisque vous les savez.
@@ -1514,13 +1514,13 @@ GEORGE DANDIN
 Hé bien, quoi ?
  
 ANGÉLIQUE
-Il est vrai que j’ai failli, je vous l’avoue encore une fois, et que votre ressentiment est juste ; que j’ai pris le temps de sortir pendant que vous dormiez, et que cette sortie est un rendez-vous que j’avois donné à la personne que vous dites. Mais enfin ce sont des actions que vous devez pardonner à mon âge ; des emportements de jeune personne qui n’a encore rien vu, et ne fait que d’entrer au monde ; des libertés où l’on s’abandonne sans y penser de mal, et qui sans doute dans le fond n’ont rien de…
+Il est vrai que j’ai failli, je vous l’avoue encore une fois, et que votre ressentiment est juste ; que j’ai pris le temps de sortir pendant que vous dormiez, et que cette sortie est un rendez-vous que j’avais donné à la personne que vous dites. Mais enfin ce sont des actions que vous devez pardonner à mon âge ; des emportements de jeune personne qui n’a encore rien vu, et ne fait que d’entrer au monde ; des libertés où l’on s’abandonne sans y penser de mal, et qui sans doute dans le fond n’ont rien de…
  
 GEORGE DANDIN
 Oui : vous le dites et ce sont de ces choses qui ont besoin qu’on les croie pieusement.
  
 ANGÉLIQUE
-Je ne veux point m’excuser par là d’être coupable envers vous, et je vous prie seulement d’oublier une offense dont je vous demande pardon de tout mon cœur, et de m’épargner en cette rencontre le déplaisir que me pourroient causer les reproches fâcheux de mon père et de ma mère. Si vous m’accordez généreusement la grâce que je vous demande, ce procédé obligeant, cette bonté que vous me ferez voir, me gagnera entièrement. Elle touchera tout à fait mon cœur, et y fera naître pour vous ce que tout le pouvoir de mes parents et les liens du mariage n’avoient pu y jeter. En un mot, elle sera cause que je renoncerai à toutes les galanteries, et n’aurai de l’attachement que pour vous. Oui, je vous donne ma parole que vous m’allez voir désormais la meilleure femme du monde, et que je vous témoignerai tant d’amitié, que vous en serez satisfait.
+Je ne veux point m’excuser par là d’être coupable envers vous, et je vous prie seulement d’oublier une offense dont je vous demande pardon de tout mon cœur, et de m’épargner en cette rencontre le déplaisir que me pourraient causer les reproches fâcheux de mon père et de ma mère. Si vous m’accordez généreusement la grâce que je vous demande, ce procédé obligeant, cette bonté que vous me ferez voir, me gagnera entièrement. Elle touchera tout à fait mon cœur, et y fera naître pour vous ce que tout le pouvoir de mes parents et les liens du mariage n’avaient pu y jeter. En un mot, elle sera cause que je renoncerai à toutes les galanteries, et n’aurai de l’attachement que pour vous. Oui, je vous donne ma parole que vous m’allez voir désormais la meilleure femme du monde, et que je vous témoignerai tant d’amitié, que vous en serez satisfait.
  
 GEORGE DANDIN
 Ah ! crocodile, qui flatte les gens pour les étrangler.
@@ -1578,16 +1578,16 @@ ANGÉLIQUE
 Hé bien ! puisqu’il le faut, voici qui nous contentera tous deux, et montrera si je me moque. Ah ! c’en est fait. Fasse le Ciel que ma mort soit vengée comme je le souhaite, et que celui qui en est cause reçoive un juste châtiment de la dureté qu’il a eue pour moi !
  
 GEORGE DANDIN
-Ouais ! seroit-elle bien si malicieuse que de s’être tuée pour me faire pendre ? Prenons un bout de chandelle pour aller voir.
+Ouais ! serait-elle bien si malicieuse que de s’être tuée pour me faire pendre ? Prenons un bout de chandelle pour aller voir.
  
 ANGÉLIQUE
 St. Paix ! Rangeons-nous chacune immédiatement contre un des côtés de la porte.
  
 GEORGE DANDIN
-La méchanceté d’une femme iroit-elle bien jusque-là ? (Il sort avec un bout de chandelle, sans les apercevoir ; elles entrent ; aussitôt elles ferment la porte.) Il n’y a personne. Eh ! Je m’en étois bien douté, et la pendarde s’est retirée, voyant qu’elle ne gagnoit rien après moi, ni par prières ni par petites menaces. Tant mieux ! cela rendra ses affaires encore plus mauvaises, et le père et la mère qui vont venir en verront mieux son crime. Ah ! ah ! la porte s’est fermée. Holà ! ho ! quelqu’un ! qu’on m’ouvre promptement !
+La méchanceté d’une femme irait-elle bien jusque-là ? (Il sort avec un bout de chandelle, sans les apercevoir ; elles entrent ; aussitôt elles ferment la porte.) Il n’y a personne. Eh ! Je m’en étais bien douté, et la pendarde s’est retirée, voyant qu’elle ne gagnait rien après moi, ni par prières ni par petites menaces. Tant mieux ! cela rendra ses affaires encore plus mauvaises, et le père et la mère qui vont venir en verront mieux son crime. Ah ! ah ! la porte s’est fermée. Holà ! ho ! quelqu’un ! qu’on m’ouvre promptement !
  
 ANGÉLIQUE, à la fenêtre avec Claudine.
-Comment ? c’est toi ! D’où viens-tu, bon pendard ? Est-il l’heure de revenir chez soi quand le jour est près de paroître ? et cette manière de vie est-elle celle que doit suivre un honnête mari ?
+Comment ? c’est toi ! D’où viens-tu, bon pendard ? Est-il l’heure de revenir chez soi quand le jour est près de paraître ? et cette manière de vie est-elle celle que doit suivre un honnête mari ?
  
 CLAUDINE
 Cela est-il beau d’aller ivrogner toute la nuit ? et de laisser ainsi toute seule une pauvre jeune femme dans la maison ?
@@ -1606,13 +1606,13 @@ Scène VII
 (M. et Mme de Sotenville sont en habits de nuit, et conduits par Colin qui porte une lanterne.)
  
 ANGÉLIQUE
-Approchez, de grâce, et venez me faire raison de l’insolence la plus grande du monde d’un mari à qui le vin et la jalousie ont troublé de telle sorte la cervelle, qu’il ne sait plus ni ce qu’il dit, ni ce qu’il fait, et vous a lui-même envoyé quérir pour vous faire témoins de l’extravagance la plus étrange dont on ait jamais ouï parler. Le voilà qui revient comme vous voyez, après s’être fait attendre toute la nuit ; et, si vous voulez l’écouter, il vous dira qu’il a les plus grandes plaintes du monde à vous faire de moi ; que durant qu’il dormoit, je me suis dérobée d’auprès de lui pour m’en aller courir, et cent autres contes de même nature qu’il est allé rêver.
+Approchez, de grâce, et venez me faire raison de l’insolence la plus grande du monde d’un mari à qui le vin et la jalousie ont troublé de telle sorte la cervelle, qu’il ne sait plus ni ce qu’il dit, ni ce qu’il fait, et vous a lui-même envoyé quérir pour vous faire témoins de l’extravagance la plus étrange dont on ait jamais ouï parler. Le voilà qui revient comme vous voyez, après s’être fait attendre toute la nuit ; et, si vous voulez l’écouter, il vous dira qu’il a les plus grandes plaintes du monde à vous faire de moi ; que durant qu’il dormait, je me suis dérobée d’auprès de lui pour m’en aller courir, et cent autres contes de même nature qu’il est allé rêver.
  
 GEORGE DANDIN
 Voilà une méchante carogne.
  
 CLAUDINE
-Oui, il nous a voulu faire accroire qu’il étoit dans la maison, et que nous en étions dehors, et c’est une folie qu’il n’y a pas moyen de lui ôter de la tête.
+Oui, il nous a voulu faire accroire qu’il était dans la maison, et que nous en étions dehors, et c’est une folie qu’il n’y a pas moyen de lui ôter de la tête.
  
 MONSIEUR DE SOTENVILLE
 Comment, qu’est-ce à dire cela ?
@@ -1687,7 +1687,7 @@ MONSIEUR DE SOTENVILLE
 Allez, vous vous moquez des gens. Descendez, ma fille, et venez ici.
  
 GEORGE DANDIN
-J’atteste le Ciel que j’étois dans la maison, et que…
+J’atteste le Ciel que j’étais dans la maison, et que…
  
 MADAME DE SOTENVILLE
 Taisez-vous, c’est une extravagance qui n’est pas supportable.
@@ -1717,7 +1717,7 @@ MONSIEUR DE SOTENVILLE
 Allons, venez, ma fille, que votre mari vous demande pardon.
  
 ANGÉLIQUE, descendue.
-Moi ? lui pardonner tout ce qu’il m’a dit ? Non, non, mon père, il m’est impossible de m’y résoudre, et je vous prie de me séparer d’un mari avec lequel je ne saurois plus vivre.
+Moi ? lui pardonner tout ce qu’il m’a dit ? Non, non, mon père, il m’est impossible de m’y résoudre, et je vous prie de me séparer d’un mari avec lequel je ne saurais plus vivre.
  
 CLAUDINE
 Le moyen d’y résister ?
@@ -1786,7 +1786,7 @@ MADAME DE SOTENVILLE
 Jour de Dieu ! si vous y retournez, on vous apprendra le respect que vous devez à votre femme, et à ceux de qui elle sort.
  
 MONSIEUR DE SOTENVILLE
-Voilà le jour qui va paroître. Rentrez chez vous, et songez bien à être sage. Et nous, mamour, allons nous mettre au lit.
+Voilà le jour qui va paraître. Rentrez chez vous, et songez bien à être sage. Et nous, mamour, allons nous mettre au lit.
 Scène VIII
 GEORGE DANDIN
 Ah ! je le quitte maintenant, et je n’y vois plus de remède ; lorsqu’on a, comme moi, épousé une méchante femme, le meilleur parti qu’on puisse prendre, c’est de s’aller jeter dans l’eau la tête la première.
